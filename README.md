@@ -1,9 +1,6 @@
 # TaskFlow — TP1 : une liste de tâches typée
 
-Application React + TypeScript (Vite), sans serveur : ajouter des tâches, faire tourner leur statut
-(À faire → En cours → Terminé), les supprimer, les filtrer, avec un compteur de tâches restantes.
-
-**Version en ligne (Vercel) :** _à compléter après le déploiement_
+Lien Vercel : https://taskflow-git-tp1-taskflow-d678.vercel.app/
 
 ![TaskFlow v0](docs/tp1.png)
 
