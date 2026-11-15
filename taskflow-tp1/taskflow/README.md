@@ -1,6 +1,5 @@
 # TaskFlow — TP1 : une liste de tâches typée
 
-## Lancer le projet
 
 ```bash
 npm install
