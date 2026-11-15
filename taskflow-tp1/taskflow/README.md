@@ -1,7 +1,5 @@
 # TaskFlow — TP1 : une liste de tâches typée
 
-![TaskFlow v0](docs/tp1.png)
-
 ## Lancer le projet
 
 ```bash
