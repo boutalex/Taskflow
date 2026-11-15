@@ -2,12 +2,9 @@
 
 Application de gestion de tâches en React + TypeScript (Vite), construite au fil des TP.
 
-## Versions en ligne (Vercel)
+##Lien vers le Vercel
 
-| TP | Branche | Adresse |
-| --- | --- | --- |
-| TP1 — liste de tâches typée | `tp1` | _à compléter_ |
-| TP2 — persistance, minuteur et thème | `tp2` | _à compléter_ |
+https://taskflow-4q8ituqnr-taskflow-d678.vercel.app/
 
 ## TP2 — persistance, minuteur et thème
 
