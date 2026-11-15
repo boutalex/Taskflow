@@ -2,14 +2,9 @@
 
 Application de gestion de tâches en React + TypeScript (Vite), construite au fil des TP.
 
-## Versions en ligne (Vercel)
+##Lien Vercel
 
-| TP | Branche | Adresse |
-| --- | --- | --- |
-| TP1 — liste de tâches typée | `tp1` | _à compléter_ |
-| TP2 — persistance, minuteur et thème | `tp2` | _à compléter_ |
-| TP3 — multi-pages et API (site) | `tp3` | _à compléter_ |
-| TP3 — API json-server (Render) | `tp3` | _à compléter_ |
+https://taskflow-git-tp3-taskflow-d678.vercel.app/
 
 ## TP3 — multi-pages, connecté à une API
 
